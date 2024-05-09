@@ -22,4 +22,4 @@ Classification scores for high-risk loans:
 
 ## Summary
 
-To minimize the risk to the lending company, it's important to focus on the accuracy of the model to correctly identify and avoid high-risk loans. Because it would be dtrimental to the lending company to have too many high-risk loans, we don't want too many false negatives. This is why a recall score of 93 is important to look at in addition to the accuracy and precision scores. Therefore, I would say that the lending company can rely on the model.
+To minimize the risk to the lending company, it's important to focus on the accuracy of the model to correctly identify and avoid high-risk loans. Because it would be detrimental for the lending company to have too many high-risk loans, we don't want too many false negatives. This is why it is important to look at the recall score in addition to the accuracy and precision scores. With an accuracy of 99% and recall score of 93%, I would say that the lending company can rely on the model.
